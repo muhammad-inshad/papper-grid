@@ -1,0 +1,52 @@
+.arrow
+{
+    width: 20px;
+}
+.top2
+{
+    background-color: black;
+    color: white;
+}
+.top
+{
+    background-color: black;
+    color: white;
+    text-align:center;
+    font-size: 10px;
+    
+}
+.texts
+{
+    font-size: 20px;
+}
+.ftext
+{
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: white;
+   justify-content: center;
+   align-items: center;
+
+}
+
+
+
+@media (min-width:290px) {
+
+    .bombf
+    {
+        color: white;
+        text-decoration: none;
+        font-size:10px;
+    }
+    .bomb
+    {
+        color: white;
+        text-decoration: none;
+    
+    }
+    
+
+    
+}
